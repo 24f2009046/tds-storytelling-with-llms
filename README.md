@@ -1,6 +1,6 @@
 # SaaS Technology Performance Analysis (2024)
 
-📧 Contact: 24f2009046@ds.study.iitm.ac.in
+24f2009046@ds.study.iitm.ac.in
 
 ## Overview
 This report provides an in-depth analysis requested by the executive team concerning our **Monthly Recurring Revenue (MRR) growth** for the year 2024. A critical observation is that the company's current growth rate is falling short of the **industry benchmark target of 15%**, demanding immediate strategic attention.
